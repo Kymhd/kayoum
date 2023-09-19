@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, web development or EXCEL**
 
-- 📫 How to reach me **mahabamema@gmail15.com**
+- 📫 How to reach me **mahabamema15@gmail.com**
 
 - ⚡ Fun fact **I think I am funy**
 
