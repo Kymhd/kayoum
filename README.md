@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kayoum</h1>
-<h3 align="center">A passionate frontend developer and python developer</h3>
+<h3 align="center">Passionate about new technologies, I love to learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kymhd&label=Profile%20views&color=0e75b6&style=flat" alt="kymhd" /> </p>
-
-- 🔭 I’m currently working on [Meta front-End developer](https://github.com/Kymhd/Meta_Front-End_Developer_Certificat_Professionnel.git)
-
-- 🌱 I’m currently learning **Web developemnt**
 
 - 💬 Ask me about **python, web development or EXCEL**
 
 - 📫 How to reach me **mahabamema15@gmail.com**
-
-- ⚡ Fun fact **I think I am funy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
